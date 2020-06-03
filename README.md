@@ -1,2 +1,1 @@
-# nlw-ecoleta
-New Level Week - Ecoleta
+# New Level Week - Ecoleta
